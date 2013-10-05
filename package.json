@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "description": "prueba del curso de mejorandola :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "nose"
+  },
+  "repository": "",
+  "keywords": [
+    "prueba",
+    "mejorando.la",
+    "backendpro"
+  ],
+  "author": "benllycast",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.0",
+    "express.io": "~1.1.13",
+    "swig": "~1.0.0",
+    "connect-redis": "~1.4.5",
+    "underscore": "~1.5.2",
+    "passport": "~0.1.17",
+    "passport-twitter": "~1.0.2",
+    "mongoose": "~3.6.20"
+  }
+}
